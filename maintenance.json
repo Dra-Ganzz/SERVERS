@@ -1,4 +1,4 @@
 {
-  "maintenance": true,
-  "runscript": false
+  "maintenance": false,
+  "runscript": true
 }
